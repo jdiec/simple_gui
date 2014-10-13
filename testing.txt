@@ -1,0 +1,10 @@
+#Project Name : testing.txt
+classlist : sample_class_1.csv
+student_identifier : ID
+group_size : 5+
+- cluster : Gender
+  values : F
+- aggregate : Project choice
+- distribute : Skill1
+  values : y
+- balance : GPA
